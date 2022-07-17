@@ -54,9 +54,9 @@
   - [관리자] 수료 교육생 취업활동 관리, 협력기업관리, 개설 과정관리 수료날짜 지정, 출결 관리 및 출결 조회
   - [교사] 배점 입출력
   - [교육생] 수료 교육생 취업활동 조회, 협력기업 조회
-파일 위치  
-  - [ANSI-SQL]()
-  - [PL-SQL]()
+- 개인 작업 파일 위치  
+  - [ANSI-SQL](https://github.com/chickenpop/EducationFacilityOperation/tree/master/6.%EC%BF%BC%EB%A6%AC%EB%AC%B8/ANSI)
+  - [PL-SQL](https://github.com/chickenpop/EducationFacilityOperation/tree/master/6.%EC%BF%BC%EB%A6%AC%EB%AC%B8/PL)
 
 ## 진행하면서 느낀점
 - 쿼리문을 작성하는 거 자체는 어렵지 않았지만, 논리적 오류나 데이터의 관계를 이해하지 못했던 부분에서 문제가 발생했었다
