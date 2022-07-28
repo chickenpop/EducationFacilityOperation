@@ -6,6 +6,9 @@
 
 <img src="https://img.shields.io/badge/Oracle Database 11g-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/eXERD-7952B3?style=for-the-badge&logo=Bootstrap-7952B3&logoColor=white"> <img src="https://img.shields.io/badge/SQL Developer-4169E1?style=for-the-badge&logo=SQL Developer-4169E1&logoColor=white">
   
+### ERD
+![DBErd](https://user-images.githubusercontent.com/50548923/181484669-40030eed-9ac5-4bfd-acc1-a967cf47889f.png)
+  
 ## 핵심 업무
 
 [공통]
@@ -34,10 +37,7 @@
 - 출결 관리 및 조회	매일 근태 기록 및 현황 조회
 
 
-## 개인 파트 구현 코드
-
-
-## 개인 아이디어 : 학생들의 취업관리를 도울 수 있는 제도 
+### 개인 아이디어 : 학생들의 취업관리를 도울 수 있는 제도 
 
 - 수료한 학생은 개인 포트폴리오를 교육센터에서 보관해줄수있다.
 
@@ -45,11 +45,7 @@
 
 - 수료한 학생은 기업을 업종, 모집분야, 구인형태에 따라 조회할 수 있다.
 
-## 개인 파트
-- 문서
-  - 요구분석서
-  - 순서도
-  - 쿼리문 정의서
+### 개인 파트
 - 구현
   - [관리자] 수료 교육생 취업활동 관리, 협력기업관리, 개설 과정관리 수료날짜 지정, 출결 관리 및 출결 조회
   - [교사] 배점 입출력
